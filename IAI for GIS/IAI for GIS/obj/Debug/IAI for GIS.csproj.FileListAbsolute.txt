@@ -1,0 +1,9 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\IAI for GIS\IAI for GIS\bin\Debug\IAI for GIS.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\IAI for GIS\IAI for GIS\bin\Debug\IAI for GIS.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\IAI for GIS\IAI for GIS\bin\Debug\IAI for GIS.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\IAI for GIS\IAI for GIS\obj\Debug\IAI for GIS.csprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\IAI for GIS\IAI for GIS\obj\Debug\IAI_for_GIS.Form1.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\IAI for GIS\IAI for GIS\obj\Debug\IAI_for_GIS.Properties.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\IAI for GIS\IAI for GIS\obj\Debug\IAI for GIS.csproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\IAI for GIS\IAI for GIS\obj\Debug\IAI for GIS.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\IAI for GIS\IAI for GIS\obj\Debug\IAI for GIS.pdb

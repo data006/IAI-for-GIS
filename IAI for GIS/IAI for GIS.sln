@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IAI for GIS", "IAI for GIS\IAI for GIS.csproj", "{DD67874B-CDF4-4238-B662-53613B28AC64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD67874B-CDF4-4238-B662-53613B28AC64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD67874B-CDF4-4238-B662-53613B28AC64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD67874B-CDF4-4238-B662-53613B28AC64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD67874B-CDF4-4238-B662-53613B28AC64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B1F30EF-D988-464C-B5AF-4C3F9E75B6F4}
+	EndGlobalSection
+EndGlobal
